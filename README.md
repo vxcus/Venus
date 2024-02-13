@@ -28,7 +28,8 @@ After long brainstorming, I decided to make code optimizations and release the p
 
 ## Final words / Thanksgiving
 
-This project was the main reason why I managed my depression. Programming this is a kind of therapy, as already mentioned above. Maintaining this project all alone was definitely not possible. Therefore I want to thank some people and spread some love.
+This project was the main reason why I managed my depression. Programming this is a kind of therapy, as already mentioned above. Maintaining this project all alone was definitely not possible. Therefore I want to thank some people and spread some love. 
+My message is when you suffer in live, do whatever makes you happy, ignore other people hating you for what you're doing. Keep going and value every success. Be proud of who you are and what you're doing.
 - **[@Phit420](https://github.com/Phit420) & JavaDouble:** Thank you for maintaining the project with me, even tho we had some parallels sometimes. It means a lot to me, much love to you. Thank you for realizing my dream of maintaining an anticheat like this.
 - **[@officialMex](https://github.com/officialMex):** I would like to thank you for the inventory move check and a lot of help during the bad times of my live. Especially the last thing, means a lot to me. <3
 - **[@Shadow192](https://github.com/Shadow192):** Thank you for trusting me with this plugin and helping me with any issues that I've faced.
